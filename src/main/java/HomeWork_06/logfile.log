@@ -1,0 +1,77 @@
+INFO  2021-11-02 17:20:58 [main] HomeWork_06.HW6 (HW6.java:13) - Старт программы
+INFO  2021-11-02 17:20:58 [main] HomeWork_06.HW6 (HW6.java:18) - Вход: 
+INFO  2021-11-02 17:20:58 [main] HomeWork_06.HW6 (HW6.java:22) - 6; 
+INFO  2021-11-02 17:20:58 [main] HomeWork_06.HW6 (HW6.java:22) - 8; 
+INFO  2021-11-02 17:20:58 [main] HomeWork_06.HW6 (HW6.java:22) - 4; 
+INFO  2021-11-02 17:20:58 [main] HomeWork_06.HW6 (HW6.java:22) - 7; 
+INFO  2021-11-02 17:20:58 [main] HomeWork_06.HW6 (HW6.java:22) - 1; 
+INFO  2021-11-02 17:20:58 [main] HomeWork_06.HW6 (HW6.java:22) - 6; 
+INFO  2021-11-02 17:20:58 [main] HomeWork_06.HW6 (HW6.java:22) - 0; 
+INFO  2021-11-02 17:20:58 [main] HomeWork_06.HW6 (HW6.java:22) - 5; 
+INFO  2021-11-02 17:20:58 [main] HomeWork_06.HW6 (HW6.java:22) - 9; 
+INFO  2021-11-02 17:20:58 [main] HomeWork_06.HW6 (HW6.java:22) - 2; 
+INFO  2021-11-02 17:20:58 [main] HomeWork_06.HW6 (HW6.java:22) - 6; 
+INFO  2021-11-02 17:20:58 [main] HomeWork_06.HW6 (HW6.java:22) - 0; 
+INFO  2021-11-02 17:20:58 [main] HomeWork_06.HW6 (HW6.java:22) - 3; 
+INFO  2021-11-02 17:20:58 [main] HomeWork_06.HW6 (HW6.java:22) - 5; 
+INFO  2021-11-02 17:20:58 [main] HomeWork_06.HW6 (HW6.java:22) - 2; 
+INFO  2021-11-02 17:20:58 [main] HomeWork_06.HW6 (HW6.java:29) - Выход: 
+INFO  2021-11-02 17:20:58 [main] HomeWork_06.HW6 (HW6.java:32) - 7; 
+INFO  2021-11-02 17:20:58 [main] HomeWork_06.HW6 (HW6.java:32) - 1; 
+INFO  2021-11-02 17:20:58 [main] HomeWork_06.HW6 (HW6.java:32) - 6; 
+INFO  2021-11-02 17:20:58 [main] HomeWork_06.HW6 (HW6.java:32) - 0; 
+INFO  2021-11-02 17:20:58 [main] HomeWork_06.HW6 (HW6.java:32) - 5; 
+INFO  2021-11-02 17:20:58 [main] HomeWork_06.HW6 (HW6.java:32) - 9; 
+INFO  2021-11-02 17:20:58 [main] HomeWork_06.HW6 (HW6.java:32) - 2; 
+INFO  2021-11-02 17:20:58 [main] HomeWork_06.HW6 (HW6.java:32) - 6; 
+INFO  2021-11-02 17:20:58 [main] HomeWork_06.HW6 (HW6.java:32) - 0; 
+INFO  2021-11-02 17:20:58 [main] HomeWork_06.HW6 (HW6.java:32) - 3; 
+INFO  2021-11-02 17:20:58 [main] HomeWork_06.HW6 (HW6.java:32) - 5; 
+INFO  2021-11-02 17:20:58 [main] HomeWork_06.HW6 (HW6.java:32) - 2; 
+INFO  2021-11-02 17:20:58 [main] HomeWork_06.HW6 (HW6.java:34) - Конец программы
+INFO  2021-11-02 17:21:11 [main] HomeWork_06.HW6 (HW6.java:13) - Старт программы
+INFO  2021-11-02 17:21:11 [main] HomeWork_06.HW6 (HW6.java:18) - Вход: 
+INFO  2021-11-02 17:21:11 [main] HomeWork_06.HW6 (HW6.java:22) - 4; 
+INFO  2021-11-02 17:21:11 [main] HomeWork_06.HW6 (HW6.java:22) - 5; 
+INFO  2021-11-02 17:21:11 [main] HomeWork_06.HW6 (HW6.java:22) - 9; 
+INFO  2021-11-02 17:21:11 [main] HomeWork_06.HW6 (HW6.java:22) - 1; 
+INFO  2021-11-02 17:21:11 [main] HomeWork_06.HW6 (HW6.java:22) - 1; 
+INFO  2021-11-02 17:21:11 [main] HomeWork_06.HW6 (HW6.java:22) - 4; 
+INFO  2021-11-02 17:21:11 [main] HomeWork_06.HW6 (HW6.java:22) - 9; 
+INFO  2021-11-02 17:21:11 [main] HomeWork_06.HW6 (HW6.java:22) - 5; 
+INFO  2021-11-02 17:21:11 [main] HomeWork_06.HW6 (HW6.java:22) - 8; 
+INFO  2021-11-02 17:21:11 [main] HomeWork_06.HW6 (HW6.java:22) - 2; 
+INFO  2021-11-02 17:21:11 [main] HomeWork_06.HW6 (HW6.java:22) - 5; 
+INFO  2021-11-02 17:21:11 [main] HomeWork_06.HW6 (HW6.java:22) - 7; 
+INFO  2021-11-02 17:21:11 [main] HomeWork_06.HW6 (HW6.java:22) - 9; 
+INFO  2021-11-02 17:21:11 [main] HomeWork_06.HW6 (HW6.java:22) - 5; 
+INFO  2021-11-02 17:21:11 [main] HomeWork_06.HW6 (HW6.java:22) - 8; 
+INFO  2021-11-02 17:21:11 [main] HomeWork_06.HW6 (HW6.java:29) - Выход: 
+INFO  2021-11-02 17:21:11 [main] HomeWork_06.HW6 (HW6.java:32) - 9; 
+INFO  2021-11-02 17:21:11 [main] HomeWork_06.HW6 (HW6.java:32) - 5; 
+INFO  2021-11-02 17:21:11 [main] HomeWork_06.HW6 (HW6.java:32) - 8; 
+INFO  2021-11-02 17:21:11 [main] HomeWork_06.HW6 (HW6.java:32) - 2; 
+INFO  2021-11-02 17:21:11 [main] HomeWork_06.HW6 (HW6.java:32) - 5; 
+INFO  2021-11-02 17:21:11 [main] HomeWork_06.HW6 (HW6.java:32) - 7; 
+INFO  2021-11-02 17:21:11 [main] HomeWork_06.HW6 (HW6.java:32) - 9; 
+INFO  2021-11-02 17:21:11 [main] HomeWork_06.HW6 (HW6.java:32) - 5; 
+INFO  2021-11-02 17:21:11 [main] HomeWork_06.HW6 (HW6.java:32) - 8; 
+INFO  2021-11-02 17:21:11 [main] HomeWork_06.HW6 (HW6.java:34) - Конец программы
+INFO  2021-11-02 17:21:20 [main] HomeWork_06.HW6 (HW6.java:13) - Старт программы
+INFO  2021-11-02 17:21:20 [main] HomeWork_06.HW6 (HW6.java:18) - Вход: 
+INFO  2021-11-02 17:21:20 [main] HomeWork_06.HW6 (HW6.java:22) - 4; 
+INFO  2021-11-02 17:21:20 [main] HomeWork_06.HW6 (HW6.java:22) - 9; 
+INFO  2021-11-02 17:21:20 [main] HomeWork_06.HW6 (HW6.java:22) - 4; 
+INFO  2021-11-02 17:21:20 [main] HomeWork_06.HW6 (HW6.java:22) - 6; 
+INFO  2021-11-02 17:21:20 [main] HomeWork_06.HW6 (HW6.java:22) - 4; 
+INFO  2021-11-02 17:21:20 [main] HomeWork_06.HW6 (HW6.java:22) - 3; 
+INFO  2021-11-02 17:21:20 [main] HomeWork_06.HW6 (HW6.java:22) - 3; 
+INFO  2021-11-02 17:21:20 [main] HomeWork_06.HW6 (HW6.java:22) - 0; 
+INFO  2021-11-02 17:21:20 [main] HomeWork_06.HW6 (HW6.java:22) - 0; 
+INFO  2021-11-02 17:21:20 [main] HomeWork_06.HW6 (HW6.java:22) - 2; 
+INFO  2021-11-02 17:21:20 [main] HomeWork_06.HW6 (HW6.java:22) - 7; 
+INFO  2021-11-02 17:21:20 [main] HomeWork_06.HW6 (HW6.java:22) - 9; 
+INFO  2021-11-02 17:21:20 [main] HomeWork_06.HW6 (HW6.java:22) - 2; 
+INFO  2021-11-02 17:21:20 [main] HomeWork_06.HW6 (HW6.java:22) - 4; 
+INFO  2021-11-02 17:21:20 [main] HomeWork_06.HW6 (HW6.java:22) - 0; 
+WARN  2021-11-02 17:21:20 [main] HomeWork_06.HW6 (HW6.java:49) - numbersBeFour. После последней четверки нет других цифр
